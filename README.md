@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://raw.githubusercontent.com/MShahzaib3242/3d-iphone/master/public/assets/images/iPhone.gif)
+![alt text](https://raw.githubusercontent.com/MShahzaib3242/mshahzaib3242/output/github.png)
 <!--
 **MShahzaib3242/mshahzaib3242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
